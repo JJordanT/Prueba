@@ -16,6 +16,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         //Bloque escrito por B
             System.out.println("HOLAAAAAAAAA");
+            System.out.println("OTRA LINEA B");
         //FIN BLOQUE    
     }
     
