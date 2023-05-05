@@ -14,8 +14,15 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         
         System.out.println("LINEA AÑADIDA POR A");
+
+        //Bloque escrito por B
+            System.out.println("HOLAAAAAAAAA");
+            System.out.println("OTRA LINEA B");
+        //FIN BLOQUE    
+
     }
     
 }
